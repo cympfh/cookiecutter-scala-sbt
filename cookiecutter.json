@@ -1,0 +1,8 @@
+{
+    "app_name": "sample",
+    "repo_name": "{{ cookiecutter.app_name|lower|replace(' ', '-') }}",
+    "sbt_version": "1.2.3",
+    "scala_version": "2.12.6",
+    "package_name": "com.github.xxx",
+    "description": ""
+}
